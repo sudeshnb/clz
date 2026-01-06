@@ -1,0 +1,10 @@
+{
+   "app_name":"BiteUp",
+   "settings.language":"English",
+   "searchPage":{
+      "error":{
+         "empty_list":"Hmm… nothing cooking with that name 🔎",
+         "empty_textbox":"What are you craving today? 😋"
+      }
+   } 
+}
